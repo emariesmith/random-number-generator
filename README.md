@@ -1,7 +1,8 @@
 # random-number-generator
 A random number generator.
 
-Click the button and it picks a number randomly between one and six.
+To start, run the script.
+Then, click the button to pick a number randomly between one and six.
 
 The generated number is added to a list in a separate text file.
 On every press of the button, the application reads through this text file to ensure there are no dupicate numbers.
